@@ -1,0 +1,199 @@
+Title: Toy Story
+Description: A cowboy doll is profoundly challenged when his owner replaces him with a new spaceman action figure.
+Release Year: 1995
+Rating: 8.3
+
+Title: Finding Nemo
+Description: After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.
+Release Year: 2003
+Rating: 8.1
+
+Title: The Lion King
+Description: A lion prince, Simba, is cast out of his pride by his evil uncle, Scar, and is forced to grow up in exile.
+Release Year: 1994
+Rating: 8.5
+
+Title: The Incredibles
+Description: A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world.
+Release Year: 2004
+Rating: 8.0
+
+Title: Toy Story 2
+Description: When Woody is stolen by a toy collector, Buzz and the gang set out to rescue him, but the mission soon turns into a battle to save Woody’s soul.
+Release Year: 1999
+Rating: 7.9
+
+Title: Up
+Description: Carl Fredricksen, a retired balloon salesman, travels to Paradise Falls in his house lifted by balloons, inadvertently bringing along a young boy.
+Release Year: 2009
+Rating: 8.2
+
+Title: Monsters, Inc.
+Description: In a world of monsters, the scariest monsters are actually the friendliest ones who collect screams from children, but the system faces a threat from a young girl.
+Release Year: 2001
+Rating: 8.1
+
+Title: Frozen
+Description: When the newly crowned Queen Elsa of Arendelle accidentally traps the kingdom in an eternal winter, her younger sister Anna sets off on an adventure to find Elsa and break the curse.
+Release Year: 2013
+Rating: 7.4
+
+Title: Finding Dory
+Description: The forgetful fish Dory embarks on a journey to reunite with her long-lost parents, with the help of her friends.
+Release Year: 2016
+Rating: 7.3
+
+Title: Brave
+Description: Merida, a young Scottish princess, rebels against tradition and her mother’s wishes in a quest to change her fate.
+Release Year: 2012
+Rating: 7.1
+
+Title: Cars
+Description: A race car named Lightning McQueen ends up in a small town where he learns about friendship, teamwork, and the simple pleasures of life.
+Release Year: 2006
+Rating: 6.7
+
+Title: A Bug's Life
+Description: A misfit ant, Flik, sets out to recruit a team of circus bugs to save his colony from a group of evil grasshoppers.
+Release Year: 1998
+Rating: 7.2
+
+Title: Coco
+Description: Aspiring musician Miguel embarks on an extraordinary journey to the land of the dead to find his great-great-grandfather, a legendary singer.
+Release Year: 2017
+Rating: 8.4
+
+Title: Zootopia
+Description: In a city of anthropomorphic animals, a bunny cop and a sly fox con artist work together to uncover a conspiracy.
+Release Year: 2016
+Rating: 8.0
+
+Title: The Good Dinosaur
+Description: In a world where dinosaurs never went extinct, a young dinosaur named Arlo befriends a human child and embarks on a journey to find his way home.
+Release Year: 2015
+Rating: 6.7
+
+Title: Ratatouille
+Description: A rat who can cook forms an unlikely partnership with a young kitchen worker at a famous Paris restaurant.
+Release Year: 2007
+Rating: 8.0
+
+Title: WALL-E
+Description: In the distant future, a waste-collecting robot embarks on a space journey that ultimately decides the fate of mankind.
+Release Year: 2008
+Rating: 8.4
+
+Title: Inside Out
+Description: After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions—Joy, Sadness, Anger, Fear, and Disgust—struggle to adjust to her new life.
+Release Year: 2015
+Rating: 8.1
+
+Title: The Jungle Book
+Description: A young boy, Mowgli, is raised by wolves in the jungle, but he must face his fears and return to human civilization when a tiger threatens his life.
+Release Year: 2016
+Rating: 7.4
+
+Title: Aladdin
+Description: A kind-hearted street rat and a princess join forces to defeat an evil sorcerer who seeks to control the kingdom with a magical genie.
+Release Year: 1992
+Rating: 8.0
+
+Title: Mulan
+Description: A Chinese maiden disguises herself as a man to fight in place of her sick father and ends up becoming one of China's greatest heroes.
+Release Year: 1998
+Rating: 7.6
+
+Title: Pocahontas
+Description: A young Native American woman and an English settler fall in love, but their relationship faces challenges due to cultural differences.
+Release Year: 1995
+Rating: 6.7
+
+Title: Sleeping Beauty
+Description: A beautiful princess is cursed by an evil fairy to fall into a deep sleep that can only be broken by a prince's kiss.
+Release Year: 1959
+Rating: 7.2
+
+Title: The Little Mermaid
+Description: A young mermaid makes a dangerous deal with a sea witch to become human in order to win the love of a human prince.
+Release Year: 1989
+Rating: 7.6
+
+Title: Cinderella
+Description: A young woman, mistreated by her stepmother and stepsisters, gets a magical opportunity to attend a royal ball and capture the heart of the prince.
+Release Year: 1950
+Rating: 7.3
+
+Title: Beauty and the Beast
+Description: A young woman is held captive in a beast’s castle in exchange for her father’s freedom. Despite her fears, she befriends the castle’s enchanted staff and learns to look beyond the beast's exterior.
+Release Year: 1991
+Rating: 8.0
+
+Title: The Hunchback of Notre Dame
+Description: Quasimodo, the bell-ringer of Notre Dame, befriends a beautiful gypsy, Esmeralda, and tries to protect her from the evil Judge Frollo.
+Release Year: 1996
+Rating: 7.0
+
+Title: Tangled
+Description: When the kingdom’s most wanted and most charming bandit is taken hostage by an unlikely duo, the feisty Rapunzel sets off on an adventure of self-discovery.
+Release Year: 2010
+Rating: 7.7
+
+Title: The Emperor's New Groove
+Description: A selfish emperor is turned into a llama by his evil adviser, and with the help of a peasant, he embarks on a journey to regain his throne.
+Release Year: 2000
+Rating: 7.4
+
+Title: Snow White and the Seven Dwarfs
+Description: Snow White, a princess, flees her wicked stepmother’s jealousy and takes refuge with seven dwarfs in the forest.
+Release Year: 1937
+Rating: 7.6
+
+Title: The Sword in the Stone
+Description: A young boy named Arthur learns of his royal heritage and takes on the role of king with the help of his mentor, Merlin.
+Release Year: 1963
+Rating: 7.2
+
+Title: Hercules
+Description: A teenage demi-god is raised as a mortal and embarks on a journey to discover his true identity and save the gods from his evil uncle.
+Release Year: 1997
+Rating: 7.3
+
+Title: Lilo & Stitch
+Description: A young Hawaiian girl adopts a mischievous alien as a pet, not knowing that he is actually a highly dangerous experimental creature.
+Release Year: 2002
+Rating: 7.3
+
+Title: The Black Cauldron
+Description: A young pig-keeper must prevent an evil warlord from using a magical cauldron to raise an army of undead soldiers.
+Release Year: 1985
+Rating: 6.4
+
+Title: The Fox and the Hound
+Description: A young fox and a hound become friends, but their friendship is challenged when they grow older and must face the differences between their species.
+Release Year: 1981
+Rating: 7.3
+
+Title: Robin Hood
+Description: A fox, disguised as Robin Hood, steals from the rich and gives to the poor, while evading the evil sheriff of Nottingham.
+Release Year: 1973
+Rating: 7.6
+
+Title: The Rescuers
+Description: Two mice from the Rescue Aid Society set out to rescue a young girl from the clutches of an evil woman.
+Release Year: 1977
+Rating: 6.9
+
+Title: Dumbo
+Description: A young elephant with oversized ears is ridiculed, but his big ears help him fly, and he becomes a circus star.
+Release Year: 1941
+Rating: 6.9
+
+Title: Pinocchio
+Description: A wooden puppet who dreams of becoming a real boy embarks on an adventure that teaches him valuable life lessons.
+Release Year: 1940
+Rating: 7.5
+
+Title: Bambi
+Description: A young deer named Bambi grows up learning about life and survival in the forest with his friends Thumper and Flower.
+Release Year: 1942
+Rating: 7.3
